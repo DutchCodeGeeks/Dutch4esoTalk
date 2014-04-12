@@ -5,8 +5,8 @@
 
 // Dutch Definitions for the Profiles plugin.
 
-$definitions["Unlike"] = "Unlike";
-$definitions["Like"] = "Like";
-$definitions["Members Who Liked This Post"] = "Gebruikers die dit bericht geliket";
-$definitions["%s likes this."] = "%s liket dit.";
-$definitions["%s like this."] = "%s liken dit.";
+$definitions["Unlike"] = "Vind ik niet meer leuk";
+$definitions["Like"] = "Vind ik leuk";
+$definitions["Members Who Liked This Post"] = "Gebruikers die dit bericht leuk vinden";
+$definitions["%s likes this."] = "%s vindt dit leuk.";
+$definitions["%s like this."] = "%s vinden dit leuk.";
