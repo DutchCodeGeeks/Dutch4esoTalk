@@ -1,10 +1,11 @@
 <?php
 // Copyright 2011 Toby Zerner, Simon Zerner
+// Edited by tomsmeding, tkon99
 // This file is part of esoTalk. Please see the included license file for usage information.
 
-// English Definitions for the Debug plugin.
+// Dutch Definitions for the Debug plugin.
 
-$definitions["MySQL queries"] = "MySQL queries";
-$definitions["Page loaded in %s seconds"] = "Page loaded in %s seconds";
-$definitions["POST + GET + FILES information"] = "POST + GET + FILES information";
-$definitions["SESSION + COOKIE information"] = "SESSION + COOKIE information";
+$definitions["MySQL queries"] = "MySQL query's";
+$definitions["Page loaded in %s seconds"] = "Pagina geladen in %s seconden";
+$definitions["POST + GET + FILES information"] = "POST + GET + FILES informatie";
+$definitions["SESSION + COOKIE information"] = "SESSION + COOKIE informatie";
