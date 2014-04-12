@@ -345,7 +345,7 @@ $definitions["Suspend member"] = "Suspend gebruiker"; //TODO:: THIS IS NOT TRANS
 $definitions["Suspend members."] = "Suspend gebruikers."; //TODO:: THIS IS NOT TRANSLATED
 $definitions["Suspend"] = "Suspend"; //TODO:: THIS IS NOT TRANSLATED
 
-$definitions["To get started with your forum, you might like to:"] = "Om met het forum te beginnen, zou dit je misschien willen:";
+$definitions["To get started with your forum, you might like to:"] = "Om met het forum te beginnen, zou je dit misschien willen:";
 
 $definitions["Unhide"] = "Unhide";
 $definitions["Uninstall"] = "Uninstall";
