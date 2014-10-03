@@ -341,53 +341,53 @@ $definitions["Sticky"] = "Geplakt";
 $definitions["Subscribe"] = "Abboneren";
 $definitions["Subscribed"] = "Geabboneerd";
 $definitions["Subscription"] = "Abbonnement";
-$definitions["Suspend member"] = "Suspend gebruiker"; //TODO:: THIS IS NOT TRANSLATED
-$definitions["Suspend members."] = "Suspend gebruikers."; //TODO:: THIS IS NOT TRANSLATED
-$definitions["Suspend"] = "Suspend"; //TODO:: THIS IS NOT TRANSLATED
+$definitions["Suspend member"] = "Gebruiker blokkeren";
+$definitions["Suspend members."] = "Gebruikers blokkeren.";
+$definitions["Suspend"] = "Blokkeer";
 
 $definitions["To get started with your forum, you might like to:"] = "Om met het forum te beginnen, zou je dit misschien willen:";
 
-$definitions["Unhide"] = "Unhide";
-$definitions["Uninstall"] = "Uninstall";
-$definitions["Unlock"] = "Unlock";
-$definitions["Unmute conversation"] = "Unmute conversation";
-$definitions["Unstarred"] = "Not following";
-$definitions["Unsticky"] = "Unsticky";
-$definitions["Unsubscribe new users by default"] = "Unsubscribe new users by default";
-$definitions["Unsubscribe"] = "Unsubscribe";
-$definitions["Unsubscribed"] = "Unsubscribed";
-$definitions["Unsuspend member"] = "Unsuspend member";
-$definitions["Unsuspend"] = "Unsuspend";
-$definitions["Until someone replies"] = "Until someone replies";
-$definitions["Untitled conversation"] = "Untitled conversation";
+$definitions["Unhide"] = "Tonen";
+$definitions["Uninstall"] = "Deïnstalleren";
+$definitions["Unlock"] = "Ontgrendel";
+$definitions["Unmute conversation"] = "Niet meer muten";
+$definitions["Unstarred"] = "Niet aan het volgen";
+$definitions["Unsticky"] = "Niet sticky maken";
+$definitions["Unsubscribe new users by default"] = "Nieuwe gebruikers standaard uitschrijven";
+$definitions["Unsubscribe"] = "Uitschrijven";
+$definitions["Unsubscribed"] = "Uitgeschreven";
+$definitions["Unsuspend member"] = "Gedeblokkeerd lid";
+$definitions["Unsuspend"] = "Deblokkeren";
+$definitions["Until someone replies"] = "Tot iemand antwoort";
+$definitions["Untitled conversation"] = "Gesprek zonder titel";
 $definitions["Upgrade esoTalk"] = "Upgrade esoTalk";
-$definitions["Use a background image"] = "Use a background image";
-$definitions["Use for mobile"] = "Use for mobile";
-$definitions["Use friendly URLs"] = "Use friendly URLs";
-$definitions["Used to verify your account and subscribe to conversations"] = "Used to verify your account and subscribe to conversations";
-$definitions["Username"] = "Username";
-$definitions["Username or Email"] = "Username or Email";
+$definitions["Use a background image"] = "Een achtergrondfoto gebruiken";
+$definitions["Use for mobile"] = "Gebruik voor mobiele apparaten";
+$definitions["Use friendly URLs"] = "Handige URL's gebruiken";
+$definitions["Used to verify your account and subscribe to conversations"] = "Wordt gebruikt om je account te verifiëren en om meldingen te krijgen";
+$definitions["Username"] = "Gebruikersnaam";
+$definitions["Username or Email"] = "Gebruikersnaam of email";
 
-$definitions["View %s's profile"] = "View %s's profile";
-$definitions["View all notifications"] = "View all notifications";
-$definitions["View more"] = "View more";
-$definitions["View your profile"] = "View your profile";
-$definitions["View"] = "View";
-$definitions["Viewing: %s"] = "Viewing: %s";
-$definitions["viewingPosts"] = "<b>%s-%s</b> of %s posts";
+$definitions["View %s's profile"] = "%s's profiel tonen";
+$definitions["View all notifications"] = "Alle meldingen tonen";
+$definitions["View more"] = "Meer tonen";
+$definitions["View your profile"] = "Jouw profiel bekijken";
+$definitions["View"] = "Bekijk";
+$definitions["Viewing: %s"] = "Aan het kijken naar: %s";
+$definitions["viewingPosts"] = "<b>%s-%s</b> van %s berichten";
 
-$definitions["Warning"] = "Uh oh, something's not right!";
-$definitions["Welcome to esoTalk!"] = "Welcome to esoTalk!";
-$definitions["We've logged you in and taken you straight to your forum's administration panel. You're welcome."] = "We've logged you in and taken you straight to your forum's administration panel. You're welcome.";
+$definitions["Warning"] = "Oh oh, iets gaat er niet goed!";
+$definitions["Welcome to esoTalk!"] = "Welkom op esoTalk!";
+$definitions["We've logged you in and taken you straight to your forum's administration panel. You're welcome."] = "We hebben je ingelogd en je meteen naar het administratie paneel gebracht. Graag gedaan!";
 $definitions["Write a reply..."] = "Write a reply...";
 
-$definitions["Yes"] = "Yes";
-$definitions["You can manage channel-specific permissions on the channels page."] = "You can manage channel-specific permissions on the channels page.";
-$definitions["Your current password"] = "Your current password";
+$definitions["Yes"] = "Ja";
+$definitions["You can manage channel-specific permissions on the channels page."] = "Je kunt kanaal specifieke permisies veranderen op de kanalen pagina.";
+$definitions["Your current password"] = "Je huidige wachtwoord";
 
 
 // Messages.
-$definitions["message.404"] = "Oh dear - the page you requested could not be found! Try going back and clicking a different link. Or something else.";
+$definitions["message.404"] = "Oh jee - de pagina die je zocht kon niet worden gevonden! Probeer terug te gaan en op een andere link te klikken, ofzo.";
 $definitions["message.ajaxDisconnected"] = "Unable to communicate with the server. Wait a few seconds and <a href='javascript:jQuery.ETAjax.resumeAfterDisconnection()'>try again</a>, or <a href='' onclick='window.location.reload();return false'>refresh the page</a>.";
 $definitions["message.ajaxRequestPending"] = "Hey! We're still processing some of your stuff! If you navigate away from this page you might lose any recent changes you've made, so wait a few seconds, ok?";
 $definitions["message.avatarError"] = "There was a problem uploading your avatar. Make sure you're using a valid image type (like .jpg, .png, or .gif) and the file isn't really really huge.";
